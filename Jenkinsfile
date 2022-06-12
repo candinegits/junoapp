@@ -1,2 +1,2 @@
 @library('team2 jenkinslibary')_
-junoApp"https://github.com/candinegits/junoapp.git"
+junoapp"https://github.com/candinegits/junoapp.git"
